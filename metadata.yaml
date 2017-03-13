@@ -1,5 +1,8 @@
 _repo: Lady-Baltimore_1386
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wister, Owen
@@ -12,6 +15,8 @@ description: 1906. Wister, an American writer whose stories helped to establish 
   cowboy as an archetypical, individualist hero. However, is works were not limited
   to the Western. Lady Baltimore is a novel about aristocratic Southerners in Charleston.
   See other titles by this author available from Kessinger Publishing.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1386#Lady-Baltimore
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1998-07-01'
 gutenberg_type: Text
